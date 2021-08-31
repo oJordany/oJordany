@@ -13,7 +13,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/882268453392756778/882271100950700052/AREmoji_20210831_113059_14.gif?width=190&height=190">
+  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/882268453392756778/882310408281669653/AREmoji_20210831_140715_12837.gif?width=120&height=120">
 </div>
   
 ##
