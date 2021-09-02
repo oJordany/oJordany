@@ -14,7 +14,7 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/882268453392756778/882310408281669653/AREmoji_20210831_140715_12837.gif?width=120&height=120">
+  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/882268453392756778/882988556715425802/AREmoji_20210902_110203_9873.gif?width=406&height=406">
 </div>
   
  ##
