@@ -11,13 +11,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="gif" src="https://media.discordapp.net/attachments/882268453392756778/882310408281669653/AREmoji_20210831_140715_12837.gif?width=120&height=120">
 </div>
   
-  ##
-  
+ ##
+ 
 <div>
   <a href="https://instagram.com/Ojordany" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:jordanyluiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
