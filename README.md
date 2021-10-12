@@ -1,10 +1,12 @@
-### Hello, I'm oJordany 👋
+## Hello, I'm oJordany 👋
 
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Python and C++
 - 📫 How to reach me: jordanyluiz@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like puzzles and drawings
+
+---
 
 <div align="center">
   <a href="https://github.com/oJordany">
