@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/882268453392756778/882988556715425802/AREmoji_20210902_110203_9873.gif?width=120&height=120">
+  <img align="right" alt="gif" src="https://media.discordapp.net/attachments/897609680073941012/910571326647967815/MyEmoji_20211117_132911_71439.gif?width=200&height=200">
 </div>
   
  ##
