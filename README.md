@@ -1,4 +1,4 @@
-# Hello, I'm oJordany 👋
+# Hello, I'm oJordany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 - 🌱 I’m currently learning Python, HTML and CSS
 - 🤔 I’m looking for help with Python, HTML and CSS
