@@ -1,7 +1,7 @@
 ## Hello, I'm oJordany 👋
 
-- 🌱 I’m currently learning Python
-- 🤔 I’m looking for help with Python and C++
+- 🌱 I’m currently learning Python, HTML e CSS
+- 🤔 I’m looking for help with Python, HTML and CSS
 - 📫 How to reach me: jordanyluiz@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like puzzles and drawings
@@ -16,7 +16,7 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="gif" src="https://media.discordapp.net/attachments/897609680073941012/910582154977763418/AREmoji_20211117_143002_54.gif?width=160&height=160">
 </div>
   
