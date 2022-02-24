@@ -1,7 +1,7 @@
 # Hello, I'm oJordany <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
-- 🌱 I’m currently learning Python, HTML and CSS
-- 🤔 I’m looking for help with Python, HTML and CSS
+- 🌱 I’m currently learning Python, HTML, CSS and JS
+- 🤔 I’m looking for help with Python, HTML, CSS and JS
 - 📫 How to reach me: jordanyluiz@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I like puzzles and drawings
