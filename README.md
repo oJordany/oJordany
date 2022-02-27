@@ -10,9 +10,9 @@
 
 <div align="center">
   <a href="https://github.com/oJordany">
-  <img height="142em" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="142em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=5&theme=react"/>
-  <img align="auto"alt="gif" src="https://media.discordapp.net/attachments/897609680073941012/910582154977763418/AREmoji_20211117_143002_54.gif?width=143&height=142">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=5&theme=react"/>
+  <img align="auto"alt="gif" src="https://media.discordapp.net/attachments/897609680073941012/910582154977763418/AREmoji_20211117_143002_54.gif?width=143&height=135">
 </div>
  
 <div style="display: inline_block" align="center"><br>
