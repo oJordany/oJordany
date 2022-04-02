@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959862641893969960/gif_welcome_pc_gimp3.gif" alt="pc-welcome" width="245vw" height="245vw" align="left" style="border-radius: 10px;">
+  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959862641893969960/gif_welcome_pc_gimp3.gif" alt="pc-welcome" width="240vw" height="240vw" align="left" style="border-radius: 10px;">
   <div align="left">
     
   ```javascript
