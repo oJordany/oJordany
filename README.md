@@ -16,8 +16,8 @@
         Git: 'https://git-scm.com/',
         Python: 'https://www.python.org',
         C++: 'http://www.cplusplus.org'
-      }
     }
+  }
   ```
     
   </div>
