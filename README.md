@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959637987778515025/Design_sem_nome_2.gif" alt="pc-welcome" width="16%" height="16%">
+  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959637987778515025/Design_sem_nome_2.gif" alt="pc-welcome" width="20%" height="20%">
 </div>
 <h1 align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 
 <div align="center">
-   <img src="https://cdn.discordapp.com/attachments/897609680073941012/959558279804125184/GifGitHub.gif" alt="humanoid-html" width="83%">
+   <img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="100%">
   
   <details>  
   <summary>Mais...</summary>
