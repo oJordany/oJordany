@@ -1,21 +1,25 @@
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/897609680073941012/959637987778515025/Design_sem_nome_2.gif" alt="pc-welcome" width="20%" height="20%">
 </div>
-<h1 align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<h1 align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 
 <div align="center">
-   <img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="100%">
+   <img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="95%">
   
   <details>  
   <summary>Mais...</summary>
-
-  - 🌱 I’m currently learning Python, HTML, CSS and JS
-  - 🤔 I’m looking for help with Python, HTML, CSS and JS
-  - 📫 How to reach me: jordanyluiz@gmail.com
-  - 😄 Pronouns: he/his
-  - ⚡ Fun fact: I like puzzles and drawings
+  
+  ---  
+  
+  <ul type="square" align="left">
+    <li>🌱 I’m currently learning Python, HTML, CSS and JS</li>
+    <li>🤔 I’m looking for help with Python, HTML, CSS and JS</li>
+    <li>📫 How to reach me: jordanyluiz@gmail.com</li>
+    <li>😄 Pronouns: he/his</li>
+    <li>⚡ Fun fact: I like puzzles and drawings</li>
+  </ul>
 
   ---
 
