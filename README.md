@@ -8,14 +8,14 @@
     
   ```javascript
   const oJordany = {
-    💻: (tools and languages) {
-      VisualStudioCode: 'https://code.visualstudio.com/',
-      HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
-      CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
-      Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
-      Git: 'https://git-scm.com/',
-      Python: 'https://www.python.org',
-      C++: 'http://www.cplusplus.org'
+    💻tools_and_languages: {
+        VisualStudioCode: 'https://code.visualstudio.com/',
+        HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
+        CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
+        Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
+        Git: 'https://git-scm.com/',
+        Python: 'https://www.python.org',
+        C++: 'http://www.cplusplus.org'
       }
     }
   ```
