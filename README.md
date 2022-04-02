@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959803354551316520/Design_sem_nome_5.gif" alt="pc-welcome" width="24.5%" height="24.5%" align="left" style="border-radius: 10px;">
+  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959803354551316520/Design_sem_nome_5.gif" alt="pc-welcome" width="24.8%" height="24.8%" align="left" style="border-radius: 10px;">
   <div align="left">
     
   ```javascript
