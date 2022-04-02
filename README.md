@@ -1,15 +1,35 @@
-<div align="center">
-  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959637987778515025/Design_sem_nome_2.gif" alt="pc-welcome" width="20%" height="20%">
 </div>
 <h1 align="left">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;&nbsp;&nbsp;Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
+<div align="center">
+  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959637987778515025/Design_sem_nome_2.gif" alt="pc-welcome" width="24%" height="24%" align="left">
+  <div align="left">
+    
+  ```javascript
+  const oJordany = {
+    💻: (tools and languages) {
+      VisualStudioCode: 'https://code.visualstudio.com/',
+      HTML5: 'https://developer.mozilla.org/pt-BR/docs/Web/HTML',
+      CSS: 'https://developer.mozilla.org/pt-BR/docs/Web/CSS',
+      Javascript: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript',
+      Git: 'https://git-scm.com/',
+      Python: 'https://www.python.org',
+      C++: 'http://www.cplusplus.org'
+      }
+    }
+  ```
+    
+  </div>
+</div>
+
 
 <div align="center">
-   <img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="95%">
+  <img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="100%">
   
   <details>  
-  <summary>Mais...</summary>
+    
+  <summary>More...</summary>
   
   ---  
   
