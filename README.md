@@ -45,9 +45,9 @@
 
   <div align="center">
     <a href="https://github.com/oJordany">
-    <img align="auto" height="150vh" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-    <img align="auto" height="150vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=5&theme=react"/>
-    <img align="auto" width="150vw" height="150vh" alt="gif" src="https://cdn.discordapp.com/attachments/897609680073941012/910582154977763418/AREmoji_20211117_143002_54.gif">
+    <img align="auto" height="140vh" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+    <img align="auto" height="140vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=5&theme=react"/>
+    <img align="auto" width="140vw" height="140vh" alt="gif" src="https://cdn.discordapp.com/attachments/897609680073941012/910582154977763418/AREmoji_20211117_143002_54.gif">
   </div>
 
   <div style="display: inline_block" align="center"><br>
