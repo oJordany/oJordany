@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/oJordany"><img src="https://cdn.discordapp.com/attachments/897609680073941012/959862641893969960/gif_welcome_pc_gimp3.gif" alt="pc-welcome" width="220vw" height="220vw" align="left" style="border-radius: 10px;"></a>
-  <div align="left">
+  <a href="https://github.com/oJordany"><img src="https://cdn.discordapp.com/attachments/897609680073941012/959862641893969960/gif_welcome_pc_gimp3.gif" alt="pc-welcome" width="220vw" height="220vh" align="left" style="border-radius: 10px;"></a>
+  <div align="left" width:"220vw" height="220vh">
     
   ```javascript
   const oJordany = {
