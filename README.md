@@ -34,11 +34,13 @@
   <h2>Basic Information</h2>  
     
   <ul type="square" align="left">
-    <li>🌱 I’m currently learning Python, HTML, CSS and JS</li>
-    <li>🤔 I’m looking for help with Python, HTML, CSS and JS</li>
-    <li>📫 How to reach me: jordanyluiz@gmail.com</li>
-    <li>😄 Pronouns: he/his</li>
-    <li>⚡ Fun fact: I like puzzles and drawings</li>
+    <div align="left">
+      <li>🌱 I’m currently learning Python, HTML, CSS and JS</li>
+      <li>🤔 I’m looking for help with Python, HTML, CSS and JS</li>
+      <li>📫 How to reach me: jordanyluiz@gmail.com</li>
+      <li>😄 Pronouns: he/his</li>
+      <li>⚡ Fun fact: I like puzzles and drawings</li>
+    </div>
   </ul>
 
   ---
