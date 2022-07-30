@@ -62,7 +62,7 @@
 <a href="https://github.com/oJordany"><img align="right" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a/>
 <a href="https://github.com/oJordany"><img align="right" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a/>
 <a href="https://github.com/oJordany"><img align="right" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-
+<a href="https://github.com/oJordany"><img align="right" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></a>
 <br/>
 
 <h2 align="right">Social Networks</h2>
