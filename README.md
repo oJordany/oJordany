@@ -49,7 +49,8 @@
 <a href="https://github.com/oJordany"><img align="auto" height="170vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=8&theme=react&count_private=true"/></a>
 
 
-<a href="https://github.com/oJordany"><img align="left" height="190vh" alt="gif" src="https://user-images.githubusercontent.com/84668196/181864371-84f02173-6363-47d5-b8bd-00129eed0ce1.gif"></a>
+<a href="https://github.com/oJordany"><img align="left" height="190vh" alt="gif" src="https://user-images.githubusercontent.com/84668196/181864750-cc056a7f-0793-48c5-be84-c768590953bb.gif"></a>
+
 
 <h2 align="right"> Favorite Languages and Tools</h2>
 <a href="https://github.com/oJordany"><img align="right" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></a>     
