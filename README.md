@@ -71,7 +71,7 @@
  ---
   <details>  
     
-  <summary><h3>CLick here</h3></summary>
+  <summary><h3>click here</h3></summary>
   
   <a href="https://github.com/oJordany"><img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="100%"></a>
 
