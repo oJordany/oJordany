@@ -24,12 +24,8 @@
 </div>
 
 
+
 <div align="center">
-  <a href="https://github.com/oJordany"><img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="80%"></a>
-  
-  <details>  
-    
-  <summary><h3>More...</h3></summary>
   
   <h2>Basic Information</h2>  
     
@@ -45,8 +41,8 @@
 
   ---
     
-<a href="https://github.com/oJordany"><img align="auto" height="170vh" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></a>
-<a href="https://github.com/oJordany"><img align="auto" height="170vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=8&theme=react&count_private=true"/></a>
+<a href="https://github.com/oJordany"><img align="auto" height="190vh" src="https://github-readme-stats.vercel.app/api?username=oJordany&show_icons=true&theme=react&include_all_commits=true&count_private=true"/></a>
+<a href="https://github.com/oJordany"><img align="auto" height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=8&theme=react&count_private=true"/></a>
 
 
 <a href="https://github.com/oJordany"><img align="left" height="190vh" alt="gif" src="https://user-images.githubusercontent.com/84668196/181864750-cc056a7f-0793-48c5-be84-c768590953bb.gif"></a>
@@ -71,6 +67,13 @@
 <a href="https://www.linkedin.com/in/luiz-silva-759a491b9" target="_blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <br/>
+
+ ---
+  <details>  
+    
+  <summary><h3>CLick here</h3></summary>
+  
+  <a href="https://github.com/oJordany"><img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="100%"></a>
 
  ---
     
