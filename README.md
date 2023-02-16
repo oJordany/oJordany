@@ -31,8 +31,8 @@
     
   <ul type="square" align="left">
     <div align="left">
-      <li>🌱 I’m currently learning Python, HTML, CSS and JS</li>
-      <li>🤔 I’m looking for help with Python, HTML, CSS and JS</li>
+      <li>🌱 I’m currently learning React</li>
+      <li>🤔 I’m looking for help with web development</li>
       <li>📫 How to reach me: jordanyluiz@gmail.com</li>
       <li>😄 Pronouns: he/his</li>
       <li>⚡ Fun fact: I like puzzles and drawings</li>
@@ -64,6 +64,7 @@
 <a href="https://github.com/oJordany"><img align="right" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></a>
 <a href="https://github.com/oJordany"><img align="right" alt="JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" /></a>
 <a href="https://github.com/oJordany"><img align="right" alt="Webpack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></a>
+<a href="https://github.com/oJordany"><img align="right" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 
 <br/>
 <h2 align="right">Connect With Me</h2>
