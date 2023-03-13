@@ -76,16 +76,11 @@
 <br/>
 
  ---
-  <details>  
-    
-  <summary><h3>click here 👆</h3></summary>
   
   <a href="https://ojordany.github.io/MySpotifyPlaylist/"><img src="https://cdn.discordapp.com/attachments/897609680073941012/959662096667271208/GifGitHub_2.gif" alt="humanoid-html" width="100%"></a>
 
  ---
     
-</details>  
-
   ![Snake animation](https://github.com/oJordany/oJordany/blob/output/github-contribution-grid-snake.svg)
   
 </div>
