@@ -83,4 +83,9 @@
     
   ![Snake animation](https://github.com/oJordany/oJordany/blob/output/github-contribution-grid-snake.svg)
   
+ ---
+ 
+ ### Visitor Counter:
+
+<img alt="me" width="50%" src="https://profile-counter.glitch.me/oJordany/count.svg" />
 </div>
