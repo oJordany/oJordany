@@ -81,7 +81,7 @@
 
  ---
     
-  ![Snake animation](https://github.com/oJordany/oJordany/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/oJordany/oJordany/blob/output/github-contribution-grid-snake-dark.svg)
   
  ---
  
