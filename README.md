@@ -31,7 +31,7 @@
     
   <ul type="square" align="left">
     <div align="left">
-      <li>🌱 I’m currently learning React</li>
+      <li>🌱 I’m currently learning Java</li>
       <li>🤔 I’m looking for help with web development</li>
       <li>📫 How to reach me: jordanyluiz@gmail.com</li>
       <li>😄 Pronouns: he/his</li>
