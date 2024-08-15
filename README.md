@@ -67,6 +67,7 @@
 <a href="https://github.com/oJordany"><img align="right" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></a>
 <a href="https://github.com/oJordany"><img align="right" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
 <a href="https://github.com/oJordany"><img align="right" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
+<a href="https://github.com/oJordany"><img align="right" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
 
 <br/>
 <h2 align="right">Connect With Me</h2>
