@@ -45,13 +45,10 @@
 <a href="https://github.com/oJordany"><img align="auto" height="190vh" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oJordany&layout=compact&langs_count=8&theme=react&count_private=true"/></a>
 
 
-<a href="https://github.com/oJordany"><img align="left" height="190vh" alt="gif" src="https://user-images.githubusercontent.com/84668196/181864750-cc056a7f-0793-48c5-be84-c768590953bb.gif"></a>
 
 
 <h2 align="right"> Favorite Languages and Tools</h2>
-<a href="https://github.com/oJordany"><img align="right" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></a>     
-<a href="https://github.com/oJordany"><img align="right" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-<a href="https://github.com/oJordany"><img align="right" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>     
+<a href="https://github.com/oJordany"><img align="left" height="190vh" alt="gif" src="https://user-images.githubusercontent.com/84668196/181864750-cc056a7f-0793-48c5-be84-c768590953bb.gif"></a> 
 <a href="https://github.com/oJordany"><img align="right" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
 <a href="https://github.com/oJordany"><img align="right" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
 <a href="https://github.com/oJordany"><img align="right" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
@@ -68,7 +65,13 @@
 <a href="https://github.com/oJordany"><img align="right" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
 <a href="https://github.com/oJordany"><img align="right" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /></a>
 <a href="https://github.com/oJordany"><img align="right" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
+<br/>
+<br/>
+<a href="https://github.com/oJordany"><img align="right" alt="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /></a>     
+<a href="https://github.com/oJordany"><img align="right" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a href="https://github.com/oJordany"><img align="right" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>    
 
+<br/>
 <br/>
 <h2 align="right">Connect With Me</h2>
 <a href="https://instagram.com/ojordany/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
