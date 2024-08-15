@@ -73,6 +73,7 @@
 
 <br/>
 <br/>
+<br/>
 <h2 align="right">Connect With Me</h2>
 <a href="https://instagram.com/ojordany/" target="_blank"><img align="right" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:jordanyluiz@gmail.com"><img align="right" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
